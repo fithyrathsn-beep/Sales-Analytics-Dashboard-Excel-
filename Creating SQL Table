@@ -1,0 +1,16 @@
+Create table Employee_id(
+    Employee_id int,
+    FirstName varchar(50),
+    LastName varchar(50),
+    age int,
+    Gender varchar(50)
+);
+Insert into Employee_id Values 
+(1001,"Lincan","Patidar",24,"Male"),
+(1002,"Nishant","Patidar",21,"Male"),
+(1003,"Leena","Ruchandani",22,"Female"),
+(1004,"Mohammad","Hassan",23,"Male"),
+(1005,"Adarsh","Jaiswal",23,"Male"),
+(1006,"Yash","Agarwal",26,"Male"),
+(1007,"Ananya","Jaiswal",25,"Female"),
+(1008,"Manya","Jaiswal",24,"Female");
